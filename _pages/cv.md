@@ -15,7 +15,7 @@ Education
   * GPA: 3.94/4.00 
   * Supervisor: <a href="https://physics.ui.ac.id/aziz-majidi/">Muhammad Aziz Majidi</a>
 * M.Phil. in Chemistry, Hong Kong University of Science and Technology, July 2022 (expected)
-  * Supervisor: Haibin Su, Co-supervisor: Zhenyang Lin
+  * Supervisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=haibin-su-haibinsu">Haibin Su</a>, Co-supervisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=zhenyang-lin-chzlin">Zhenyang Lin</a>
   * GPA: 3.58/4.30
   
 Teaching experience
