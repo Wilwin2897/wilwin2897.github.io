@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, University of Indonesia, 2019
-  * GPA (3.94/4.00) 
-* M.Phil. in Chemistry, Hong Kong University of Science and Technology, 2022 (expected)
-  Supervisor: Haibin Su, Co-supervisor: Zhenyang Lin
+* B.S. in Physics, University of Indonesia, January 2019
+  * GPA: 3.94/4.00 
+  * Supervisor: Muhammad Aziz Majidi
+* M.Phil. in Chemistry, Hong Kong University of Science and Technology, July 2022 (expected)
+  * Supervisor: Haibin Su, Co-supervisor: Zhenyang Lin
+  * GPA: 3.58/4.30
   
 Teaching experience
 ======
@@ -31,6 +33,7 @@ Skills
 * Software, packages
   * VASP - Vienna Ab initio Simulation Package
   * Abinit
+  * Quantum Espresso
   * Blender
  
 Publications
