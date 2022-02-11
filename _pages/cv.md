@@ -11,31 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* B.S. in Physics, University of Indonesia, 2019
+  * GPA (3.94/4.00) 
+* M.Phil. in Chemistry, Hong Kong University of Science and Technology, 2022 (expected)
+  Supervisor: Haibin Su, Co-supervisor: Zhenyang Lin
+  
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020-2021: Teaching Assistant of CHEM 2409: Mathematical Methods for Chemistry
+* Spring 2021: Teaching Assistant of CHEM 4210 Solid State Chemistry
+* Spring 2022: Teaching Assistant of CHEM 3420: Physical Chemistry II
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Data collection and theoretical modeling
+* Programming Language
+  * Phython
+  * Fortran 90
+* Software, packages
+  * VASP - Vienna Ab initio Simulation Package
+  * Abinit
+  * Blender
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,12 +45,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
