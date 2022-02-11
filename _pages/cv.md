@@ -13,8 +13,7 @@ Education
 ======
 * B.S. in Physics, University of Indonesia, January 2019 (3.5 years)
   * GPA: 3.94/4.00 
-  * Supervisor: Muhammad Aziz Majidi
-    *  Muhammad Aziz Majidi received a Sarjana degree (equivalent to B.Sc. plus) in physics in 1993 from University of Indonesia Department of Physics, and a master’s degree in 1997, in the same field from the same department. Further, he was selected to participate in the Diploma Programme on Condensed Matter Physics held by ICTP, in Trieste, Italy (1997-1998). He received his Ph.D. degree from the Physics Department, University of Cincinnati, USA, in 2006, with a dissertation entitled Computational Studies of Ferromagnetism in Strongly Correlated Electronic Systems (under advisory of Prof. Mark Jarrell). Before returning to Indonesia, he had worked as a postdoctoral research associate (2006-2008) at Physics Dept. of University of North Dakota, USA (under supervision of Prof. Juana Moreno).
+  * Supervisor: <a href="https://physics.ui.ac.id/aziz-majidi/">Muhammad Aziz Majidi</a>
 * M.Phil. in Chemistry, Hong Kong University of Science and Technology, July 2022 (expected)
   * Supervisor: Haibin Su, Co-supervisor: Zhenyang Lin
   * GPA: 3.58/4.30
