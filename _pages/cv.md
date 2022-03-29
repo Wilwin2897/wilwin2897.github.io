@@ -54,14 +54,15 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ * Manifestation of Gauche Effect on 2D Phosphorus Allotropes’ Energetics 
+   Hang Lyu†, W. Wilwin†, Zhenyang Lin*, and Haibin Su*
+   (Manuscript submitted to Journal of Physical Chemistry C [IF:4.1])
+ * Theoretical Study of Unconventional Plasmons Formation within a Reduced-Size 1D Hubbard Model around a Quarter Filling
+    A. R. P. Tambunan, W. Wilwin and M. A. Majidi 
+    (IOP Conference Series Materials Science and Engi- neering 515(1):012055 [2019]). [link]
+    
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 
