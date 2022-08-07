@@ -20,7 +20,7 @@ Education
 
 Working experience
 ======
-* Research Assistant in the Department of Physics(June 2022 - Now)
+* Research Assistant in the Department of Physics HKUST (June 2022 - Now)
   * My job here includes: providing computational modeling of quantum material to help analyze the experimental data, building a new scanning tunneling microscope head, and automating the molecular beam epitaxy machine by using pyVisa and QTGUI.
 
 Research experience
