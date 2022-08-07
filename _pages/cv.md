@@ -18,6 +18,11 @@ Education
   * GPA: 3.58/4.30
   * Supervisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=haibin-su-haibinsu">Haibin Su</a>, Co-supervisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=zhenyang-lin-chzlin">Zhenyang Lin</a>
 
+Working experience
+======
+* Research Assistant in the Department of Physics(June 2022 - Now)
+  * My job here includes: providing computational modeling of quantum material to help analyze the experimental data, building a new scanning tunneling microscope head, and automating the molecular beam epitaxy machine by using pyVisa and QTGUI.
+
 Research experience
 ======
 * University of Indonesia
