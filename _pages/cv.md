@@ -42,11 +42,16 @@ Skills
 * Programming Language
   * Python
   * Fortran 90
+  * C++
+  * Linux
 * Software, packages
   * VASP - Vienna Ab initio Simulation Package
   * Abinit
   * Quantum Espresso
   * Blender
+  * KiCAD
+  * Fusion360
+  * FreeCAD
  
 Awards
 ======
